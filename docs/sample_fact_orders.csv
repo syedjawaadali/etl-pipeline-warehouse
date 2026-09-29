@@ -1,0 +1,9 @@
+order_id,order_date,order_month,customer_id,segment,country,amount
+1,2025-01-01,2025-01,1,Enterprise,PK,108.92
+2,2025-01-01,2025-01,315,Consumer,UK,208.33
+3,2025-01-01,2025-01,48,Consumer,AE,88.36
+4,2025-01-01,2025-01,165,SMB,PK,148.38
+5,2025-01-01,2025-01,175,SMB,UK,163.27
+6,2025-01-02,2025-01,104,Consumer,AE,245.2
+8,2025-01-02,2025-01,285,Enterprise,UK,83.77
+9,2025-01-02,2025-01,59,SMB,PK,170.1

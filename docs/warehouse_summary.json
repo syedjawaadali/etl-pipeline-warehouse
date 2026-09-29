@@ -1,0 +1,31 @@
+{
+  "rows_extracted": 900,
+  "rows_rejected_by_dq": 18,
+  "reject_rate_pct": 2.0,
+  "fact_rows_loaded": 882,
+  "dim_customer_rows": 399,
+  "distinct_customers_with_orders": 354,
+  "total_revenue": 107748.27,
+  "avg_order_value": 122.16,
+  "dq_checks_passed": 4,
+  "top_segment": "Consumer",
+  "revenue_by_segment": {
+    "Consumer": 39265.23,
+    "Enterprise": 38059.14,
+    "SMB": 30423.9
+  },
+  "revenue_by_country": {
+    "PK": 30458.09,
+    "UK": 28274.86,
+    "US": 25301.25,
+    "AE": 23714.07
+  },
+  "revenue_by_month": {
+    "2025-01": 18758.85,
+    "2025-02": 16037.97,
+    "2025-03": 20426.91,
+    "2025-04": 18120.04,
+    "2025-05": 18381.32,
+    "2025-06": 16023.18
+  }
+}
